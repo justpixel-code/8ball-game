@@ -3,7 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Python-3.6+-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Active-green)
 
-A fun and interactive Magic 8-Ball game that runs directly in your terminal with funny and unique responses. Created by **@JustPixel**.
+A fun 8-ball game that was developed in python by **@JustPixel**
+@justpixel.code on Discord
 
 ---
 
