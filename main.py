@@ -46,7 +46,7 @@ def eightball():
             l = input('are you sure? (y/n)\n> ')
             time.sleep(1)
             if l == "y":
-                print("\nnbye!")
+                print("\nbye!")
                 exit()
         else:
             print("invalid input")
