@@ -8,7 +8,7 @@ def eightball():
             n = input('What do you wish your username to be?\n> ')
             try:
                 while True:
-                    g = input(f'{n} > ')
+                    g = input(f'{n}> ')
                     if g == "exit":
                         print("\nBye!")
                         exit()
