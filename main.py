@@ -35,7 +35,8 @@ def eightball():
                         "idfk go ask sm1 else",
                         "i aint AI bruh"
                     ]
-                    if g == "exit":
+                    if g.lower() == "exit":
+                        print('Bye!')
                         exit()
                     result = random.choice(responses)
                     print(f'question: {g}\nanswer: {result}')
