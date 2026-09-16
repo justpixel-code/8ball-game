@@ -32,7 +32,7 @@ cd 8ball-game
 
 ## 🚀 How to Run
 
-Once you are inside the project folder, you can start the game by executing the `main.py` file:
+Once you are inside the project folder, you can start the game by running the `main.py` file:
 
 ```bash
 python main.py
@@ -41,7 +41,6 @@ python main.py
 ---
 
 ## 🎮 Features
-* Custom username selection.
-* Infinite game loop until you type `exit`.
-* Hilarious, non-generic 8-Ball answers.
-* Clean error handling and safe exit options.
+* Username Selection- You can use your own username(Note: Once you exited the program the username WON'T be saved!)
+* Exit - You can exit by typing 2 at the start or writing "exit" mid game.
+* Clean error handling.
